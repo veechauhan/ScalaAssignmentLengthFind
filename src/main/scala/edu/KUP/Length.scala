@@ -10,8 +10,4 @@ class LengthFind {
   }
 }
 
-object Main extends App {
-  val obj = new LengthFind
-  val list: List[Int] = List(1, 0, 6)
-  print(obj.len(list))
-}
+
